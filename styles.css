@@ -302,6 +302,21 @@ aside a {
   text-decoration: none;
 }
 
+.make_an_appointment_text {
+  display: flex;
+  justify-content: center;
+  font-size: 13px;
+}
+
+.make_an_appointment_contact {
+  margin-top: 20px;
+}
+
+.make_an_appointment_link a {
+  text-decoration: underline;
+  color: #3156A4;
+}
+
 footer {
   display: flex;
   justify-content: center;
