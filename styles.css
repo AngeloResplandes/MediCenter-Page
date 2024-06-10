@@ -390,6 +390,12 @@ footer .contact .title_section {
   background-color: #43B3E5;
 }
 
+@media(max-width:842px) {
+  nav a {
+    font-size: 11px;
+  }
+}
+
 @media (max-width: 768px) {
 
   body {
